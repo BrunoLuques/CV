@@ -45,15 +45,15 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: Sobre mí
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Bruno luques. Soy estudiante de programación en la Unahur.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Me gusta la tecnología: <mark>AWS</mark> y <mark>la contabilidad</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: proyectos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
